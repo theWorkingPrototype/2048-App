@@ -1,0 +1,16 @@
+{
+    "expo": {
+     "name": "2048",
+     "icon": "./assets/2048icon.png",
+     "version": "1.0.0",
+     "slug": "p1",
+     "ios": {
+       "bundleIdentifier": "com.theWorkingPrototype.2048",
+       "buildNumber": "1.0.0"
+     },
+     "android": {
+       "package": "com.theWorkingPrototype.A2048",
+       "versionCode": 1
+     }
+    }
+  }
